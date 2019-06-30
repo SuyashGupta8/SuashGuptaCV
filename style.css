@@ -1,0 +1,13 @@
+.bulletSection { 
+  font-weight: bold;
+  color: #111;
+  font-family: 'Helvetica Neue' sans-serif; 
+}
+
+.childbulletSection { 
+  font-weight: normal;
+  position:relative; 
+  left:50px; //for relative postion it will move paragrapgh tag to 50px left from the existing boundary
+
+  
+}
